@@ -141,11 +141,9 @@ The project is divided into **four parts**, allowing me to apply the SQL concept
 | Part 1       | ✅ Completed    |
 | Part 2       | ✅ Completed    |
 | Part 3       | ✅ Completed    |
-| Part 4       | 🔄 In Progress |
+| Part 4       | ✅ Completed    |
 
-I have completed the first three parts and have now reached **Part 4**, which comes after completing the main portions of the SQL curriculum.
-
-I am currently working toward completing the final part of the project.
+I have completed all the four parts of the_Maji_Ndogo Project.
 
 ---
 
@@ -175,11 +173,8 @@ Throughout this journey, I have been developing skills in:
 
 My practical project work is being developed using **Jupyter Notebook**.
 
-The completed and ongoing project notebooks will be stored in the [`notebooks`](./notebooks/) folder.
+The completed  project notebooks will be stored in the [`notebooks`](./notebooks/) folder.
 
-My current focus is:
-
-**SQL Project — Part 4**
 
 ---
 
@@ -222,7 +217,7 @@ At this stage, I am bringing together the knowledge I have developed throughout 
 
 **Project Part 3:** ✅
 
-**Project Part 4:** 🔄 In Progress
+**Project Part 4:** ✅
 
 ---
 
