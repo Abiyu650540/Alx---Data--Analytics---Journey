@@ -194,7 +194,7 @@ The work log contains reflections on:
 ### Work Log
 
 * [Week 01 — Starting My ALX Journey](./work-log/week-01.md)
-* Week 02-]./work-log/work-log/week-02.md
+* [Week 02-]./work-log/work-log/week-02.md
 * [Month 01 — Data Analysis with Spreadsheets](./work-log/month-01-spreadsheets.md)
 * [Month 02 — SQL & Four-Part Project](./work-log/month-02-sql-and-project.md)
 * [Current Progress — SQL Project Part 4](./work-log/current-progress-part-4.md)
