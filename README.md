@@ -203,9 +203,6 @@ The work log contains reflections on:
 
 # 📈 Current Focus
 
-I am currently focused on **Part 4 of my SQL project**.
-
-At this stage, I am bringing together the knowledge I have developed throughout my SQL learning journey and applying it to the final part of the practical project.
 
 ### Current Status
 
@@ -220,14 +217,17 @@ At this stage, I am bringing together the knowledge I have developed throughout 
 **Project Part 4:** ✅
 
 ---
+## Current Status and Next Steps
 
-# 🌱 What Comes Next
+I have completed all four parts of my practical SQL project.
 
-My immediate goal is to complete Part 4 and finalize the project work.
+My ALX Data Analytics journey is still in progress. My next learning stages are:
 
-After completing this stage, I plan to continue strengthening my Data Analytics skills through additional practical projects and portfolio development.
+1. **Power BI for Data Analytics** — data modeling, Power Query, DAX, dashboards, and reporting.
+2. **Teamwork & Agile Workflows** — collaboration, Agile principles, and team-based problem-solving.
+3. **Career Exploration & Professional Identity** — professional development and career planning.
 
-I want this repository to grow with me — not just as a record of completed coursework, but as evidence of how I learn, solve problems, and develop practical analytical skills.
+These courses are currently listed as coming soon on my ALX learning platform.
 
 ---
 
@@ -265,8 +265,6 @@ alx-data-analytics-journey/
 
 This repository will continue to evolve as I progress through my Data Analytics journey.
 
-**Three project parts completed. One final part to go.**
-
-**Currently working on: SQL Project — Part 4 🚀**
+**four project parts completed.
 # Alx---Data--Analytics---Journey
 My learning journey and work log for the ALX Data Analytics course.
