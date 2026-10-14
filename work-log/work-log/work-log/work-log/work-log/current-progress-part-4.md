@@ -1,59 +1,44 @@
-# Current Progress — SQL Project Part 4
+# SQL Project — Part 4 Completed
 
-## Current Stage
+## Summary
 
-I am currently working on **Part 4 of my practical SQL project**.
+I have completed all four parts of my practical SQL project as part of my ALX Data Analytics journey.
 
-This is the final part of the four-part project that I started when I began the SQL section of my ALX Data Analytics journey.
+The project allowed me to apply the SQL concepts I learned throughout the curriculum to practical data analysis tasks.
 
-## Project Progress
+## Practical Project Progress
 
-| Part   | Status         |
-| ------ | -------------- |
-| Part 1 | ✅ Completed    |
-| Part 2 | ✅ Completed    |
-| Part 3 | ✅ Completed    |
-| Part 4 | 🔄 In Progress |
+| Project Part | Status |
+|---|---|
+| Part 1 | Completed |
+| Part 2 | Completed |
+| Part 3 | Completed |
+| Part 4 | Completed |
 
-## What I Have Completed
+## Skills Developed
 
-I have successfully completed the first three parts of the practical project while progressing through the SQL curriculum.
+Throughout my SQL learning stage and practical project, I developed skills in database fundamentals, MySQL, querying and filtering data, SQL functions, aggregations, and window functions.
 
-These stages gave me opportunities to apply concepts including:
+I also strengthened my ability to approach analytical questions systematically and organize my work for documentation.
 
-* SQL querying.
-* Data filtering.
-* SQL functions.
-* Aggregations.
-* Statistical analysis.
-* Window functions.
-* Ranking and analytical queries.
-* Working with structured data.
+## Project Documentation
 
-## Current Focus
+My Part 4 Jupyter Notebook is stored in the `notebooks/` folder of this repository.
 
-My current focus is completing **Part 4** and applying the SQL knowledge I have developed throughout the course.
+## Next Steps in My ALX Journey
 
-I am working through the final analytical tasks and organizing my work so that the process, queries, analysis, and results can be clearly documented.
+After completing the SQL practical project, my next learning stages are:
 
-## Documentation
+1. **Power BI for Data Analytics** — develop skills in data modeling, Power Query transformations, DAX, dashboards, and reporting.
+2. **Teamwork & Agile Workflows** — strengthen collaboration, Agile practices, and team-based problem-solving.
+3. **Career Exploration & Professional Identity** — develop my professional narrative and explore technology-enabled career pathways.
 
-I plan to document the Part 4 work in a **Jupyter Notebook (`.ipynb`)**.
+These courses are currently listed as coming soon in my ALX learning platform.
 
-The notebook will provide a structured record of my analysis, including the work performed, SQL-related analysis, results, and conclusions.
+## Reflection
 
-## Key Learning
+Completing all four parts of the SQL project is an important milestone in my journey toward becoming a data analyst. I look forward to building on this foundation as I progress through the remaining courses.
 
-The practical project has helped me understand that learning SQL is most valuable when the concepts are applied to actual analytical problems.
+**SQL practical project: 4/4 parts completed.**
 
-Completing the project has also helped me develop a more structured approach to exploring data, answering questions, and communicating analytical findings.
-
-## Next Step
-
-Complete Part 4, finalize the analysis, and add the completed **Jupyter Notebook** to the `notebooks/` folder of this repository.
-
-## Overall Progress
-
-**3 of 4 project parts completed.**
-
-**Current focus: SQL Project — Part 4 🚀**
+**Overall ALX learning journey: In progress.**
